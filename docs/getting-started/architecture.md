@@ -83,7 +83,7 @@ graph TB
     style NR fill:#1e293b,stroke:#94a3b8,stroke-width:2px,stroke-dasharray:5 5,color:#e2e8f0
 ```
 
-::: 
+::: tips
 **Data Sources:** IoT data sources, sensors, cameras, and external APIs pushing data according to the NGSI-LD standard.
 
 **Broker Node:** Context Broker cluster with Security Gateway, Orion-LD, and MongoDB for state storage.
